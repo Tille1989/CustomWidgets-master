@@ -1,6 +1,7 @@
 (function() { 
     let _shadowRoot;
-    let _id;
+    //let _id;
+    let _oView; 
 
     let template = document.createElement("template");
     template.innerHTML = `
@@ -27,9 +28,9 @@
 
             _shadowRoot.appendChild(template.content.cloneNode(true));
 
-            _id = createGuid();
+            //_id = createGuid();
 
-            _shadowRoot.querySelector("#oView").id = _id + "_oView";
+            //_shadowRoot.querySelector("#oView").id = _id + "_oView";
             
             this._props = {};
             loadthis(this);  
@@ -43,8 +44,10 @@
           
         }
         set value(newValue) {
+
             if (sap.ui.getCore().byId("__tile0")) {
-                sap.ui.getCore().byId("__tile0").getTileContent()[0].getContent().setValue(newValue);
+                //sap.ui.getCore().byId("__tile0").getTileContent()[0].getContent().setValue(newValue);
+                oView.byId("tile").getTileContent()[0].getContent().setValue(newValue);
             }
         }
     }
@@ -72,8 +75,8 @@
             });
 
             //### THE APP: place the XMLView somewhere into DOM ###
-            var oView  = sap.ui.xmlview({
-                viewContent: jQuery(_shadowRoot.getElementById(_id + "_oView")).html(),
+            oView  = sap.ui.xmlview({
+                viewContent: jQuery(_shadowRoot.getElementById("oView")).html(),
             });
             oView.placeAt(content);
 
