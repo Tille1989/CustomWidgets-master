@@ -33,7 +33,7 @@
             //_shadowRoot.querySelector("#oView").id = _id + "_oView";
             
             this._props = {};
-            loadthis(this);  
+            loadthis(this);   
         }
         onCustomWidgetBeforeUpdate(changedProperties) {
             if ("designMode" in changedProperties) {
