@@ -1,7 +1,7 @@
 {
     "id": "com.sap.sample.tiletah",
     "version": "1.0.0",
-    "name": "newTile",
+    "name": "Generic Tile",
     "description": "A newTile", 
     "newInstancePrefix": "newTile",
     "icon": "https://tille1989.github.io/CustomWidgets-master/newTile/icon.png",
