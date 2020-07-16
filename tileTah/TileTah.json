@@ -6,7 +6,7 @@
     "newInstancePrefix": "newTile",
     "icon": "https://Tille1989.github.io/CustomWidgets/newTile/icon.png",
     "vendor": "SAP",
-    "eula": "",
+    "eula": "", 
     "license": "",
     "webcomponents": [
         {
