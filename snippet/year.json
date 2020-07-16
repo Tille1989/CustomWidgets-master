@@ -1,0 +1,842 @@
+[
+    {
+      "Datum": "01.01.2013",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2013",
+      "Wochentag": 5,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2013",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2013",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2013",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2013",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2013",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2013",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2013",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2013",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2013",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2013",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2014",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2014",
+      "Wochentag": 6,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2014",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2014",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2014",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2014",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2014",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2014",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2014",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2014",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2014",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2014",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2015",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2015",
+      "Wochentag": 7,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2015",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2015",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2015",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2015",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2015",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2015",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2015",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2015",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2015",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2015",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2016",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2016",
+      "Wochentag": 1,
+      "AnzahlTage": 29
+    },
+    {
+      "Datum": "01.03.2016",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2016",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2016",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2016",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2016",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2016",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2016",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2016",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2016",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2016",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2017",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2017",
+      "Wochentag": 3,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2017",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2017",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2017",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2017",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2017",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2017",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2017",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2017",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2017",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2017",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2018",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2018",
+      "Wochentag": 4,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2018",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2018",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2018",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2018",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2018",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2018",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2018",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2018",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2018",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2018",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2019",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2019",
+      "Wochentag": 5,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2019",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2019",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2019",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2019",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2019",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2019",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2019",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2019",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2019",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2019",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2020",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2020",
+      "Wochentag": 6,
+      "AnzahlTage": 29
+    },
+    {
+      "Datum": "01.03.2020",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2020",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2020",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2020",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2020",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2020",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2020",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2020",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2020",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2020",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2021",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2021",
+      "Wochentag": 1,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2021",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2021",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2021",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2021",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2021",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2021",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2021",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2021",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2021",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2021",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2022",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2022",
+      "Wochentag": 2,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2022",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2022",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2022",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2022",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2022",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2022",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2022",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2022",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2022",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2022",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2023",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2023",
+      "Wochentag": 3,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2023",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2023",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2023",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2023",
+      "Wochentag": 4,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2023",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2023",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2023",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2023",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2023",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2023",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2024",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2024",
+      "Wochentag": 4,
+      "AnzahlTage": 29
+    },
+    {
+      "Datum": "01.03.2024",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2024",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2024",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2024",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2024",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2024",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2024",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2024",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2024",
+      "Wochentag": 5,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2024",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2025",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2025",
+      "Wochentag": 6,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2025",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2025",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2025",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2025",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2025",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2025",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2025",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2025",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2025",
+      "Wochentag": 6,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2025",
+      "Wochentag": 1,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.01.2026",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.02.2026",
+      "Wochentag": 7,
+      "AnzahlTage": 28
+    },
+    {
+      "Datum": "01.03.2026",
+      "Wochentag": 7,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.04.2026",
+      "Wochentag": 3,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.05.2026",
+      "Wochentag": 5,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.06.2026",
+      "Wochentag": 1,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.07.2026",
+      "Wochentag": 3,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.08.2026",
+      "Wochentag": 6,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.09.2026",
+      "Wochentag": 2,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.10.2026",
+      "Wochentag": 4,
+      "AnzahlTage": 31
+    },
+    {
+      "Datum": "01.11.2026",
+      "Wochentag": 7,
+      "AnzahlTage": 30
+    },
+    {
+      "Datum": "01.12.2026",
+      "Wochentag": 2,
+      "AnzahlTage": 31
+    }
+  ]

@@ -1,0 +1,45 @@
+{
+    "id": "com.sap.sample.fioritile2",
+    "version": "1.0.0",
+    "name": "Fiori Tile2",
+    "description": "My first Fiori Tile2",
+    "newInstancePrefix": "FioriTile2",
+    "icon": "https://opel22.github.io/CustomWidgets/fioriTile2/fioriTile2.png",
+    "vendor": "SAP",
+    "eula": "",
+    "license": "",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "com-sap-sample-fioritile2",
+            "url": "https://opel22.github.io/CustomWidgets/fioriTile2/fioriTile2.js",
+            "integrity": "sha256-/HF47ayRHxc4HpYWVmrNoetT6xaC2u5fwbXgUxrDkI8=",
+            "ignoreIntegrity": false
+        }
+    ],
+    "properties": {
+        "color": {
+            "type": "string",
+            "description": "Background color",
+            "default": "red"
+        },
+        "opacity": {
+            "type": "number",
+            "description": "Opacity",
+            "default": 1
+        },
+        "width": {
+            "type": "integer",
+            "default": 400
+        },
+        "height": {
+            "type": "integer",
+            "default": 400
+        }
+    },
+    "methods": {
+    },
+    "events": {
+    },
+    "imports": ["datasource"]
+}            

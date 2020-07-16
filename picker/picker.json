@@ -1,0 +1,27 @@
+{
+    "id": "com.sap.sample.picker",
+    "version": "1.0.0",
+    "name": "Picker Box",
+    "description": "A Date Picker",
+    "newInstancePrefix": "Picker",
+    "icon": "https://opel22.github.io/CustomWidgets/coloredbox/icon.png",
+    "vendor": "SAP",
+    "eula": "",
+    "license": "",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "com-sap-sample-picker",
+            "url": "https://opel22.github.io/CustomWidgets/picker/picker.js",
+            "integrity": "sha256-/HF47ayRHxc4HpYWVmrNoetT6xaC2u5fwbXgUxrDkI8=",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {
+    },
+    "methods": {
+    },
+    "events": {
+    },
+    "imports": ["datasource"]
+}            

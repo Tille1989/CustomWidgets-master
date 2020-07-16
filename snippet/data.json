@@ -1,0 +1,352 @@
+[
+    {
+      "Employee": 10889,
+      "Month": "Januar 2020",
+      "Date": "07.01.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Januar 2020",
+      "Date": "13.01.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Januar 2020",
+      "Date": "20.01.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Januar 2020",
+      "Date": "30.01.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Februar 2020",
+      "Date": "03.02.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "März 2020",
+      "Date": "09.03.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "März 2020",
+      "Date": "12.03.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "März 2020",
+      "Date": "13.03.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "März 2020",
+      "Date": "30.03.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "01.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "06.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "08.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "09.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "13.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "16.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "20.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "April 2020",
+      "Date": "22.04.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Mai 2020",
+      "Date": "04.05.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Mai 2020",
+      "Date": "11.05.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Mai 2020",
+      "Date": "29.05.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juni 2020",
+      "Date": "01.06.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juni 2020",
+      "Date": "02.06.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juni 2020",
+      "Date": "19.06.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juni 2020",
+      "Date": "24.06.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juni 2020",
+      "Date": "26.06.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juli 2020",
+      "Date": "01.07.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juli 2020",
+      "Date": "10.07.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juli 2020",
+      "Date": "21.07.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Juli 2020",
+      "Date": "23.07.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "11.08.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "14.08.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "21.08.2020",
+      "Zeitart": 2000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "24.08.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "26.08.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "August 2020",
+      "Date": "28.08.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "September 2020",
+      "Date": "18.09.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "September 2020",
+      "Date": "21.09.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "September 2020",
+      "Date": "25.09.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "September 2020",
+      "Date": "30.09.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Oktober 2020",
+      "Date": "09.10.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Oktober 2020",
+      "Date": "30.10.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "November 2020",
+      "Date": "13.11.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "November 2020",
+      "Date": "18.11.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "November 2020",
+      "Date": "20.11.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "November 2020",
+      "Date": "23.11.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Dezember 2020",
+      "Date": "02.12.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Dezember 2020",
+      "Date": "04.12.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Dezember 2020",
+      "Date": "07.12.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Dezember 2020",
+      "Date": "11.12.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    },
+    {
+      "Employee": 10889,
+      "Month": "Dezember 2020",
+      "Date": "22.12.2020",
+      "Zeitart": 1000,
+      "Value": 1
+    }
+  ]

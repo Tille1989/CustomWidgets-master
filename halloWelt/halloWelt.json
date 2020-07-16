@@ -1,0 +1,56 @@
+{
+    "id": "com.sap.sample.hallowelt",
+    "version": "2.0.0",
+    "name": "Hallo Welt",
+    "description": "My first Fiori Tile",
+    "newInstancePrefix": "HalloWelt",
+    "icon": "https://opel22.github.io/CustomWidgets/halloWelt/halloWelt.png",
+    "vendor": "SAP",
+    "eula": "",
+    "license": "",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "com-sap-sample-hallowelt",
+            "url": "https://opel22.github.io/CustomWidgets/halloWelt/halloWelt.js",
+            "integrity": "sha256-/HF47ayRHxc4HpYWVmrNoetT6xaC2u5fwbXgUxrDkI8=",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {
+        "metadata": {
+          "type": "string",
+          "description": "For internal use",
+          "default": ""
+        },
+        "password": {
+          "type": "string",
+          "description": "password",
+          "default": ""
+        }
+      },
+      "methods": {
+        "getPassword": {
+          "returnType": "string",
+          "description": "Get password",
+          "parameters": [],
+          "body": "return this.password;"
+        },
+        "setPassword": {
+          "description": "Set password",
+          "parameters": [
+            {
+              "name": "value",
+              "type": "string",
+              "description": "The new password"
+            }
+          ],
+          "body": "this.password = value;"
+        }
+      },
+      "events": {
+          "onClick": {
+          "description": "onClick events trigger"
+        }
+      }
+    }      
