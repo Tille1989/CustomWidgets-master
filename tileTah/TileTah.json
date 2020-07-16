@@ -4,7 +4,7 @@
     "name": "newTile",
     "description": "A newTile", 
     "newInstancePrefix": "newTile",
-    "icon": "https://Tille1989.github.io/CustomWidgets/newTile/icon.png",
+    "icon": "https://tille1989.github.io/CustomWidgets-master/newTile/icon.png",
     "vendor": "SAP",
     "eula": "", 
     "license": "",
@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "com-sap-sample-newtile",
-            "url": "https://Tille1989.github.io/CustomWidgets/newTile/newTile.js",
+            "url": "https://tille1989.github.io/CustomWidgets-master/newTile/newTile.js",
             "integrity": "sha256-/HF47ayRHxc4HpYWVmrNoetT6xaC2u5fwbXgUxrDkI8=",
             "ignoreIntegrity": true
         }
