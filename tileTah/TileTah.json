@@ -2,7 +2,7 @@
     "id": "com.sap.sample.tiletah",
     "version": "1.0.0",
     "name": "newTile",
-    "description": "A newTile",
+    "description": "A newTile", 
     "newInstancePrefix": "newTile",
     "icon": "https://Tille1989.github.io/CustomWidgets/newTile/icon.png",
     "vendor": "SAP",
