@@ -76,10 +76,6 @@
             });
             _oView.placeAt(content);
 
-
-            if (that_._designMode) {
-                //oView.byId("passwordInput").setEnabled(false);
-            }
         });
     }
 
