@@ -55,7 +55,7 @@
         //Erstellung eines Divs mit Slot = "Content"
         let content = document.createElement('div');
         content.slot = "content";
-        content.setAttribute("sapui5ViewId","100");
+        //content.setAttribute("sapui5ViewId","100");
         that_.appendChild(content);
 
 
@@ -80,10 +80,9 @@
             
             _oView.placeAt(content);
 
-            if ( 1 == 2) {
-                content.setAttribute("sapUi5ViewId",oView.getId());
-            }
-            
+
+            content.setAttribute("sapUi5ViewId",oView.getId());
+
 
             
 
