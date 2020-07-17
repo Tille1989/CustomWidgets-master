@@ -224,6 +224,8 @@
             });
             oView.placeAt(content);
 
+            content.setAttribute("sapUi5ViewId",oView.getId());
+
 
             if (that_._designMode) {
                 oView.byId("passwordInput").setEnabled(false);
