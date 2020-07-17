@@ -1,7 +1,6 @@
 (function() { 
+    //bla
     let _shadowRoot;
-    //let _id;
-    let _oView; 
 
     let template = document.createElement("template");
     template.innerHTML = `
@@ -21,19 +20,15 @@
             </mvc:View>
         </script>
     `;
-    class TileTah extends HTMLElement {
+    class NewTile extends HTMLElement {
         constructor() {
             super(); 
             _shadowRoot = this.attachShadow({mode: "open"});
 
             _shadowRoot.appendChild(template.content.cloneNode(true));
-
-            //_id = createGuid();
-
-            //_shadowRoot.querySelector("#oView").id = _id + "_oView";
             
             this._props = {};
-            loadthis(this);   
+            loadthis(this);  
         }
         onCustomWidgetBeforeUpdate(changedProperties) {
             if ("designMode" in changedProperties) {
@@ -44,14 +39,12 @@
           
         }
         set value(newValue) {
-
             if (sap.ui.getCore().byId("__tile0")) {
-                //sap.ui.getCore().byId("__tile0").getTileContent()[0].getContent().setValue(newValue);
-                oView.byId("tile").getTileContent()[0].getContent().setValue(newValue);
+                sap.ui.getCore().byId("__tile0").getTileContent()[0].getContent().setValue(newValue);
             }
         }
     }
-    customElements.define("com-sap-sample-tiletah", TileTah);
+    customElements.define("com-sap-sample-newtile", NewTile);
 
     function loadthis(that) {
         var that_ = that;
@@ -75,7 +68,7 @@
             });
 
             //### THE APP: place the XMLView somewhere into DOM ###
-            oView  = sap.ui.xmlview({
+            var oView  = sap.ui.xmlview({
                 viewContent: jQuery(_shadowRoot.getElementById("oView")).html(),
             });
             oView.placeAt(content);
@@ -86,13 +79,5 @@
             }
         });
     }
-
-    function createGuid() {
-        return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, c => {
-            let r = Math.random() * 16 | 0,
-                v = c === "x" ? r : (r & 0x3 | 0x8);
-            return v.toString(16);
-        });
-    }  
 
 })();
