@@ -2,7 +2,7 @@
     //bla
     let _shadowRoot;
 
-    let _oView; 
+    //let _oView; 
 
     let template = document.createElement("template");
     template.innerHTML = `
@@ -74,11 +74,11 @@
             });
 
             //### THE APP: place the XMLView somewhere into DOM ###
-            _oView  = sap.ui.xmlview({
+            var oView  = sap.ui.xmlview({
                 viewContent: jQuery(_shadowRoot.getElementById("oView")).html(),
             });
             
-            _oView.placeAt(content);
+            oView.placeAt(content);
 
 
             content.setAttribute("sapUi5ViewId",oView.getId());
