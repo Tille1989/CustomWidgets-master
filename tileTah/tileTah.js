@@ -80,7 +80,10 @@
             
             _oView.placeAt(content);
 
-            content.setAttribute("sapUi5ViewId",oView.getId())
+            if ( 1 == 2) {
+                content.setAttribute("sapUi5ViewId",oView.getId());
+            }
+            
 
             
 
