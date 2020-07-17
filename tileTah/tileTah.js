@@ -41,10 +41,12 @@
           
         }
         set value(newValue) {
-            if(!_oView){
+            let sViewId = this.firstChild.getAttribute("sapui5viewid");
+            var oView = sap.ui.getCore().byId(sViewId); 
+            if(!oView){
                 return; 
             }
-            _oView.byId("tile").setValue(newValue);
+            oView.byId("tile").setValue(newValue);
         }
     }
     customElements.define("com-sap-sample-newtile", NewTile);
