@@ -2,6 +2,8 @@
     //bla
     let _shadowRoot;
 
+    let _oView; 
+
     let template = document.createElement("template");
     template.innerHTML = `
         <div id="ui5_content" name="ui5_content">
@@ -41,6 +43,7 @@
         set value(newValue) {
             if (sap.ui.getCore().byId("__tile0")) {
                 sap.ui.getCore().byId("__tile0").getTileContent()[0].getContent().setValue(newValue);
+                _oView.byId("tile").getTileContent()[0].getContent().setValue(newValue);
             }
         }
     }
@@ -68,10 +71,10 @@
             });
 
             //### THE APP: place the XMLView somewhere into DOM ###
-            var oView  = sap.ui.xmlview({
+            _oView  = sap.ui.xmlview({
                 viewContent: jQuery(_shadowRoot.getElementById("oView")).html(),
             });
-            oView.placeAt(content);
+            _oView.placeAt(content);
 
 
             if (that_._designMode) {
