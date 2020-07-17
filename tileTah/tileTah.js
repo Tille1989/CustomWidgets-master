@@ -52,11 +52,10 @@
     function loadthis(that) {
         var that_ = that;
       
-        //Erstellung eines Divs mit Slot = "Content"
         let content = document.createElement('div');
-        content = "content";
+        content.slot = "content";
         that_.appendChild(content);
-
+        
 
         sap.ui.getCore().attachInit(function() {
             "use strict";
@@ -76,7 +75,6 @@
             _oView  = sap.ui.xmlview({
                 viewContent: jQuery(_shadowRoot.getElementById("oView")).html(),
             });
-            content.setAttribute("sapui5ViewId","100");
             _oView.placeAt(content);
 
         });
