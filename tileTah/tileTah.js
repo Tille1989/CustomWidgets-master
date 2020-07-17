@@ -54,7 +54,7 @@
       
         //Erstellung eines Divs mit Slot = "Content"
         let content = document.createElement('div');
-        content = "content";
+        content.slot = "content";
         content.setAttribute("sapui5ViewId","100");
         that_.appendChild(content);
 
