@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "com-sap-sample-newtile",
-            "url": "https://tille1989.github.io/CustomWidgets-master/newTile/TileTah.js",
+            "url": "https://tille1989.github.io/CustomWidgets-master/newTile/tileTah.js",
             "integrity": "sha256-/HF47ayRHxc4HpYWVmrNoetT6xaC2u5fwbXgUxrDkI8=",
             "ignoreIntegrity": true
         }
